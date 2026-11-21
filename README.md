@@ -234,22 +234,6 @@ ___
 | Value 1 | Value 2 | a | b |
 | Value 3 | Value 4 | a | b |
 
-# Footnotes
-
-```md
-The small[^1], and a big [^big]
-
-[^1]: Smaller
-[^big]: Bigger
-    Use tab to include
-```
-
-The small,[^1] and a big [^big]
-
-[^1]: Smaller
-[^big]: Bigger
-    Use tab to include
-
 # Definition
 
 ```md
@@ -353,3 +337,20 @@ Original: <https://github.com/orgs/community/discussions/16925>
 ![Static badge](https://img.shields.io/badge/)
 
 Visit: <https://shields.io/badges>
+
+
+# Footnotes
+
+```md
+The small[^1], and a big [^big]
+
+[^1]: Smaller
+[^big]: Bigger
+    Use tab to include
+```
+
+The small,[^1] and a big [^big]
+
+[^1]: Smaller
+[^big]: Bigger
+    Use tab to include
